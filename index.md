@@ -8,4 +8,4 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-![aboot]({{ noooon.github.io }}/about.md)
+[a relative link](about.md)
