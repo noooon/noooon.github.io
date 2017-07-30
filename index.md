@@ -1,6 +1,6 @@
 # Games I made
 
-![HKMJ]({{ site.url }}/HKMahjong_screenshot.png)
+![HKMJ]({{site.url}}/HKMahjong_screenshot.png)
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -10,4 +10,4 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-[a relative link](about.md)
+[a relative link]({{site.url}}/about.md)
