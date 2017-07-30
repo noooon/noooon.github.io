@@ -1,6 +1,6 @@
 # Games I made
 
-![HKMJ](HKMahjong_screenshot.png)
+![HKMJ]({{ site.url }}/HKMahjong_screenshot.png)
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
