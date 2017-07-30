@@ -1,3 +1,8 @@
+---
+title: This is my title
+layout: post
+---
+
 # Hello
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
