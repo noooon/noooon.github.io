@@ -13,7 +13,7 @@ The traditional Chinese card game of strategy for your iPhone. Based on the most
 - Auto-save feature, so no worries about interrupted games. 
 - Tutorial mode, to help introduce new players to Mahjong. 
 
-Micro Marines
+## Micro Marines
 
 ![MM]({{site.url}}/Micro_marines_screenshot.png)
 
