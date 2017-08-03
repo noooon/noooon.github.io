@@ -1,9 +1,4 @@
----
-title: This is my title
-layout: post
----
-
-# Games I made
+# Stuff I have made
 
 ## HK Mahjong
 
