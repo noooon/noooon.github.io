@@ -8,7 +8,7 @@
 
 - Unity3D
 - Playable in browser; Windows, Linux, and OSX executables
-http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=37095
+<http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=37095>
 
 ## HK Mahjong
 
