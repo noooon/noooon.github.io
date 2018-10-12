@@ -1,6 +1,6 @@
-# Stuff I have made
+# some stuff I have made
 
-Unironically rubbish-looking things I have made. 
+Unironically, rubbish-looking, things I have made, mostly as a student.
 
 ## Ludum Dare 29
 
